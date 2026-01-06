@@ -3,9 +3,9 @@
 > **Professional agent ticket system for GoHighLevel call centers**  
 > Used by 28+ production clients generating $XX,XXX,XXX+ in annual revenue
 
-[![Production Clients](https://img.shields.io/badge/Production_Clients-28-success?style=for-the-badge)](https://github.com/burke-jpg/jumpcontact-ghl-tickets)
-[![Annual Revenue](https://img.shields.io/badge/Annual_Revenue-$XXM%2B-brightgreen?style=for-the-badge)](https://github.com/burke-jpg/jumpcontact-ghl-tickets)
-[![Industries](https://img.shields.io/badge/Industries-5_Verticals-blue?style=for-the-badge)](https://github.com/burke-jpg/jumpcontact-ghl-tickets)
+[![Production Clients](https://img.shields.io/badge/Production_Clients-28-success?style=for-the-badge)](https://github.com/burke-jpg/jumpcontact-public)
+[![Annual Revenue](https://img.shields.io/badge/Annual_Revenue-$XXM%2B-brightgreen?style=for-the-badge)](https://github.com/burke-jpg/jumpcontact-public)
+[![Industries](https://img.shields.io/badge/Industries-5_Verticals-blue?style=for-the-badge)](https://github.com/burke-jpg/jumpcontact-public)
 
 
 ---
@@ -283,7 +283,7 @@ Unauthorized copying, modification, distribution, or use of this software is str
 
 ## 🔗 Links & Resources
 
-- **Repository:** [github.com/burke-jpg/jumpcontact-ghl-tickets](https://github.com/burke-jpg/jumpcontact-ghl-tickets)
+- **Repository:** [github.com/burke-jpg/jumpcontact-ghl-tickets](https://github.com/burke-jpg/jumpcontact-public)
 - **Documentation:** [Quick Start](docs/QUICKSTART.md) • [Deployment](docs/DEPLOYMENT.md) • [Architecture](docs/ARCHITECTURE.md)
 - **Contact:** [jose@jumpcontact.com](mailto:jose@jumpcontact.com)
 - **Company:** [Jump Contact](https://jumpcontact.com)
@@ -306,9 +306,9 @@ Unauthorized copying, modification, distribution, or use of this software is str
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/burke-jpg/jumpcontact-ghl-tickets?style=social)
-![GitHub forks](https://img.shields.io/github/forks/burke-jpg/jumpcontact-ghl-tickets?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/burke-jpg/jumpcontact-ghl-tickets?style=social)
+![GitHub stars](https://img.shields.io/github/stars/burke-jpg/jumpcontact-public?style=social)
+![GitHub forks](https://img.shields.io/github/forks/burke-jpg/jumpcontact-public?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/burke-jpg/jumpcontact-public?style=social)
 
 **Used by 28+ production clients** • **5 industries** • **$XXM+ annual revenue**
 
